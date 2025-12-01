@@ -59,7 +59,7 @@ Dědí z `MovableObject` a implementuje logiku pohybu pomocí metody `MakeMove()
 ### `Duck`
 - Reprezentace velké kachny
 - Implementuje logiku sledování pozice hráče
-- Obsahhuje metodu `Draw` pro vykreslení své aktuální animace
+- Obsahuje metodu `Draw` pro vykreslení své aktuální animace
 
 Dědí z `MovableObject` a má vlastní implementaci `MakeMove()`, kde sleduje pozici hráče. Létá po mapě bez ohledu na překážky.
 
