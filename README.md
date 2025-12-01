@@ -1,4 +1,4 @@
-# Chuckie Egg
+# Zápočtový program: **Chuckie Egg**
 
 <img src="images/game.png" alt="Gameplay screenshot" width="500"/>
 
