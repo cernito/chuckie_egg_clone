@@ -8,7 +8,7 @@ Před spuštěním se ujistěte, že máte nainstalované .NET SDK verze 8.0 neb
 
 Ukázka úvodní obrazovky:
 
-<img src="images/titleScreenFullscreen.PNG" alt="In-game title screen" width="500"/>
+<img src="../images/titleScreenFullscreen.PNG" alt="In-game title screen" width="500"/>
 
 *Obrázek 1 – Úvodní obrazovka hry*
 
@@ -18,7 +18,7 @@ Ukázka úvodní obrazovky:
 
 Ukázka obrazovky s ovládáním:
 
-<img src="images/controlsFullscreen.PNG" alt="In-game controls screen" width="500"/>
+<img src="../images/controlsFullscreen.PNG" alt="In-game controls screen" width="500"/>
 
 *Obrázek 2 – Obrazovka s ovládáním*
 
@@ -39,7 +39,7 @@ Další ovládání:
 
 Ukázka obrazovky ze hry:
 
-<img src="images/inGameFullscreen.PNG" alt="In-game gameplay screenshot" width="500"/>
+<img src="../images/inGameFullscreen.PNG" alt="In-game gameplay screenshot" width="500"/>
 
 *Obrázek 3 – Ukázka hry*
 
